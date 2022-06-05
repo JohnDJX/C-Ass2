@@ -1,0 +1,6 @@
+jh1074|Jones,Henry|02-10-1974|Boneitis|37.5,80,60,16;37.5,82,15,16
+mm0580|McCartney,Martha|24-05-1980|Greyscale|
+tg0548|Taylor,George|15-05-1948|SimianFlu|37.2,80,60,12
+zd01100|Zaius,Dr|01-01-2000|SimianFlu|
+kk0890|Kroker,Kif|19-08-1990|Boneitis|40.2,70,60,12;39.7,80,40,12
+bs02115|Baratheon,Shireen|02-02-2015|Greyscale|
